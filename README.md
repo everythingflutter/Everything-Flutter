@@ -3,3 +3,8 @@
 A group created for the purpose of teaching others Flutter. This repository is for project created by developers in Everything Flutter
 
 ## Rules To Participate in Flutter Hackaton ([GCDC Ado](https://twitter.com/gcdcado))
+1. RSVP To partake in the Hackathon on [Meetup](https://www.meetup.com/GDG-Cloud-Ado-Ekiti/events/255578840/)
+2. Fork this repository to add your Flutter repository
+3. Save your Flutter project in a folder
+4. Upload the saved folder in the forked repository
+5. Pull Request the folder your forked when you have successfully uploaded your Flutter project
