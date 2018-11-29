@@ -8,3 +8,8 @@ A group created for the purpose of teaching others Flutter. This repository is f
 3. Save your Flutter project in a folder
 4. Upload the saved folder in the forked repository
 5. Pull Request the folder your forked when you have successfully uploaded your Flutter project
+
+## Bonus Points
+Add the following to your app to earn bonus points
+- Add Google Cloud Technologies
+- User log in or sign up for the application
